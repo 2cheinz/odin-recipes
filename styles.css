@@ -1,0 +1,15 @@
+h1, 
+h2, 
+h3{
+    background-color: greenyellow ;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+li{
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: 'Courier New', 'Times New Roman', Times, serif;
+}
